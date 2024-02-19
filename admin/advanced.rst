@@ -506,7 +506,7 @@ open dashboard called "SystemOverview", use URL
 
 .. code-block:: abap
 
-    http://server/nxmc?auto&server=10.0.0.2&login=guest&dashboard=SystemOverview
+    http://server/nxmc/nxmc-light.app?auto&server=10.0.0.2&login=guest&dashboard=SystemOverview
 
 
 |product_name| data usage in external products
